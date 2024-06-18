@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+    margin-left: 30px;
+}
+
+.nav-ch{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
